@@ -1,0 +1,70 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/include",
+                "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/src",
+                "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit ILI9341",
+                "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit GFX Library",
+                "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit BusIO",
+                "/home/ana/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/home/ana/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "/home/ana/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "/home/ana/.platformio/packages/framework-arduino-avr/variants/standard",
+                "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit SH110X",
+                "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit STMPE610",
+                "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit TSC2007",
+                "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit TouchScreen",
+                "/home/ana/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "/home/ana/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "/home/ana/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/include",
+                    "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/src",
+                    "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit ILI9341",
+                    "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit GFX Library",
+                    "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit BusIO",
+                    "/home/ana/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/home/ana/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "/home/ana/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "/home/ana/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit SH110X",
+                    "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit STMPE610",
+                    "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit TSC2007",
+                    "/home/ana/ACS/anul3/sem2/pm/proiect/Minesweeper-Arduino/.pio/libdeps/uno/Adafruit TouchScreen",
+                    "/home/ana/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "/home/ana/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "/home/ana/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60115",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "compilerPath": "/home/ana/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
