@@ -190,7 +190,7 @@ void loop(void)
     
         timer = 300;
 
-        hidden_cells = 0;
+        hidden_cells = ROWS * COLUMNS;
 
         gameWon = false;
         gameOver = false;
