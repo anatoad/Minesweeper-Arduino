@@ -9,3 +9,7 @@ Minesweeper game which uses an Arduino UNO compatible board (ATmega328p) to cont
 
 ### Results
 ![](https://github.com/anatoad/Minesweeper-Arduino/blob/main/img/clear_multiple_cells.gif)
+
+![](https://github.com/anatoad/Minesweeper-Arduino/blob/main/img/game_won.gif)
+
+![](https://github.com/anatoad/Minesweeper-Arduino/blob/main/img/game_over.gif)
